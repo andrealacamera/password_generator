@@ -1,4 +1,7 @@
-# password_generator
+# Random Password Generator
+In this project: 
+- [Bootstrap5 (alpha1)](https://v5.getbootstrap.com/)
+- [Vue.JS](https://vuejs.org/)
 
 ## Project setup
 ```
@@ -15,10 +18,4 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 2020-08-19
