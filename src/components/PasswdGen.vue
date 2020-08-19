@@ -77,11 +77,11 @@ export default {
       upper: true,
       lower: true,
       number: true,
-      symbol: false,
+      symbol: true,
       okcopy: false,
       okcopied: 0,
       message_copied: '',
-      passwdLen: 10,
+      passwdLen: 12,
       passwd:''
     }
   },
