@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <h1 class="mt-4">Random Password Generator App</h1>
     <div class="row mt-4">
       <div class="col-4">
         Character set: 
@@ -40,7 +39,7 @@
         </div>
       </div>
     </div><!-- row -->
-    <div class="row  mt-4 justify-content-between">
+    <div class="row  mt-4">
       <div class="col-6">
         <button type="button" class="btn btn-primary btn-lg" :class="{'disabled': !okcreate}" @click.stop.prevent="createPasswd">Generate Password</button>
       </div>
