@@ -1,6 +1,6 @@
 # Random Password Generator
 In this project: 
-- [Bootstrap5 (alpha1)](https://v5.getbootstrap.com/)
+- [Bootstrap5](https://v5.getbootstrap.com/)
 - [Vue.JS](https://vuejs.org/)
 
 ## Project setup
