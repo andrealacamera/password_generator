@@ -2,6 +2,7 @@
 In this project: 
 - [Bootstrap5](https://v5.getbootstrap.com/)
 - [Vue.JS](https://vuejs.org/)
+- [Vue I18n](https://kazupon.github.io/vue-i18n/)
 
 ## Project setup
 ```

@@ -1,0 +1,10 @@
+{
+  "set": "Character set:",
+  "lenght": "Password lenght:",
+  "lenght2": "characters",
+  "new": "new password",
+  "generate": "Generate password",
+  "copy": "Copy to clipboard",
+  "copied": "Copied!",
+  "error": "Oops, unable to copy..."
+}
