@@ -210,8 +210,20 @@ export default {
   display: flex;
   justify-content: flex-end;
   cursor: pointer;
+  gap: 5px;
 }
 .selected {
   color: #222;
+}
+
+@media (max-width:768px) {
+  .form-check-input {
+    width:1.75em !important;
+    height: 1.75em !important;
+  }
+  .form-check-label {
+    padding: 3px 0;
+    line-height: 1.75em;
+  }
 }
 </style>
